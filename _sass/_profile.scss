@@ -21,18 +21,18 @@
 %instructor-profile {
     display: block;
     float: left;
-    height: 210px;
+    height: 230px;
 
     @media screen and (min-width: 676px) {
-        height: 130px;
+        height: 150px;
     }
 
     img {
         border-radius: 50%;
         float: left;
         object-fit: cover;
-        height: 100px;
-        width: 100px;
+        height: 120px;
+        width: 120px;
         margin-right: 10px;
     }
 
@@ -42,9 +42,9 @@
         list-style-type: none;
         padding-left: 0;
         width: 65%;
-        width: -webkit-calc(100% - 130px);
-        width: calc(100% - 130px);
-        min-width: 210px;
+        width: -webkit-calc(100% - 150px);
+        width: calc(100% - 150px);
+        min-width: 230px;
 
         a {
             color: $theme-color;
@@ -54,7 +54,7 @@
         }
 
         span {
-            font-weight: 600;
+            font-weight: 400;
         }
     }
 }
