@@ -6,7 +6,7 @@ name: 11-777 MMML
 title: Multimodal Machine Learning
 email:
 description: >
-  11-777 - Multimodal Machine Learning - Carnegie Mellon University - Fall 2020
+  Chesapeake ML-Astro Research Group
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -16,16 +16,16 @@ baseurl: # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: CMU-MultiComp-Lab
-google_analytics: UA-131744305-1
-youtube_channel: UCqlHIJTGYhiwQpNuPU5e2gg
+github_username: ChesapeakeMLAstro
+google_analytics: 
+youtube_channel: 
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Course Notes
-blog_description: The notes written by students and edited by instructors
+blog_name: # none
+blog_description: # none
 
 # Pagination
 paginate: 10
@@ -53,8 +53,8 @@ collections:
   announcements:
     defaults:
       layout: post
-    output: true
-    permalink: /announcements/:path/
+    output: false
+    permalink: 
 
 announcements_limit: 5
 
