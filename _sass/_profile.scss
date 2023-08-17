@@ -19,9 +19,8 @@
 }
 
 %instructor-profile {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    display: block;
+    float: left;
     height: 210px;
 
     @media screen and (min-width: 676px) {
@@ -56,6 +55,12 @@
 
         span {
             font-weight: 600;
+        }
+
+        li {
+          display: table-cell;
+          vertical-align: middle;
+          height: 100%;
         }
     }
 }
