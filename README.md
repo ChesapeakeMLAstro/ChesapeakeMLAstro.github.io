@@ -1,7 +1,5 @@
-# 11777 - Multimodal Machine Learning
+# Chesapeake ML-Astro Group Website.
 
-Course webpage for CMU course 11-777, Multimodal Machine Learning, Fall 2020 and Fall 2022
+The website is maintained by John F. Wu ([@jwuphysics](https://github.com/jwuphysics)).
 
-https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
-
-https://cmu-multicomp-lab.github.io/mmml-course/fall2022/
+This is forked from the [CMU 11-777 course page](https://github.com/CMU-MultiComp-Lab/mmml-course), which itself is a fork from the [al-folio project](https://github.com/alshedivat/al-folio).
