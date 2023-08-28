@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /contact/
 title: <b>C</b>hesapeake <b>M</b>achine <b>L</b>earning and <b>A</b>stronomy
 description: Contact us
