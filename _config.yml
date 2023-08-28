@@ -13,6 +13,9 @@ footer_text: >
 url: https://ChesapeakeMLAstro.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 
+lang: en
+icon: /assets/favicon.ico
+
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
