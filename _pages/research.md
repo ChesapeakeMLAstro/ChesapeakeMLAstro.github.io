@@ -10,6 +10,8 @@ Our research group applies machine learning methods to several topics in astroph
 * Equivariant convolutional neural networks for investigating galaxy clusters
 * Diffusion models for conditional generation of galaxy images
 * Graph neural networks representing large scale structure
-* Lots more!
+* Exploiting machine learning for maximizing science with wide-area imaging surveys 
+* Best practices and ethics for astronomical and scientific machine learning
+* Strategic use of artificial intelligence to improve research astronomy
 
 ***
